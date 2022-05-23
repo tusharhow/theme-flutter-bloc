@@ -1,16 +1,12 @@
-# theme_bloc
+# Change Theme in Flutter Using Bloc
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/T8vnkA9Y-GA)
 
-## Getting Started
+### Change Theme in Flutter
 
-This project is a starting point for a Flutter application.
+A nice clean theming In Flutter.Today I will show you how you can change theme In Flutter like a boss. Which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Change Theme in Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/169841061-883b9876-b8be-4409-ac9b-a3f82a8c647b.png" alt="portfolio" width="600">
